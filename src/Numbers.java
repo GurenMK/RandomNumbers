@@ -3,7 +3,7 @@
 //Generate 37 random numbers
 //Display number, prime status, divisible integers
 
-public class Assignment_1 {
+public class Numbers {
 
     public static boolean isPrime(int number) {   //check prime method
         for (int divisor = 2; divisor <= number / 2; divisor++) {
